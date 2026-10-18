@@ -1,0 +1,596 @@
+{
+  "version": 1,
+  "packs": [
+    {
+      "id": "1943-u",
+      "title": "1943: The Battle of Midway",
+      "aliases": [
+        "1943"
+      ],
+      "notes": "",
+      "file": "1943-U.zip",
+      "url": "https://github.com/izzy2lost/NESHD-HDPacks/releases/download/packs-v1/1943-U.zip",
+      "size": 1676105,
+      "sha256": "af841c1b1c1cbfead5310f9f430c684d4dee34c9c907c7c7e6be1b06965bc004",
+      "romSha1": []
+    },
+    {
+      "id": "battlecity-japan",
+      "title": "Battle City",
+      "aliases": [],
+      "notes": "",
+      "file": "BattleCity-Japan.zip",
+      "url": "https://github.com/izzy2lost/NESHD-HDPacks/releases/download/packs-v1/BattleCity-Japan.zip",
+      "size": 56578,
+      "sha256": "eb7793934eda774f0f2d5464ad111a52d3e355599ed87803ead27e6e2065a3bf",
+      "romSha1": []
+    },
+    {
+      "id": "bomberman-usa",
+      "title": "Bomberman",
+      "aliases": [],
+      "notes": "",
+      "file": "Bomberman-USA.zip",
+      "url": "https://github.com/izzy2lost/NESHD-HDPacks/releases/download/packs-v1/Bomberman-USA.zip",
+      "size": 13379,
+      "sha256": "f048920df018f1eccd3a7b0469bfb9cb9e3cd56d064cf0ac30c413643ec87765",
+      "romSha1": [
+        "12531701E633D2196C9A15F944B101A8205248E4"
+      ]
+    },
+    {
+      "id": "castlevania-usa",
+      "title": "Castlevania HD",
+      "aliases": [
+        "Castlevania"
+      ],
+      "notes": "",
+      "file": "Castlevania-USA.zip",
+      "url": "https://github.com/izzy2lost/NESHD-HDPacks/releases/download/packs-v1/Castlevania-USA.zip",
+      "size": 28978285,
+      "sha256": "c3d433a97214ed263d5916d27465eff88868dd8c4c67d7b2d21de49b5a161e12",
+      "romSha1": []
+    },
+    {
+      "id": "castlevania-u-prg-1",
+      "title": "Castlevania HD (PRG1)",
+      "aliases": [
+        "Castlevania"
+      ],
+      "notes": "",
+      "file": "Castlevania-U-PRG-1.zip",
+      "url": "https://github.com/izzy2lost/NESHD-HDPacks/releases/download/packs-v1/Castlevania-U-PRG-1.zip",
+      "size": 19342871,
+      "sha256": "d63396f08cdf71d5d185c3c9f021dc96965a075ad954b20aba7bd6f332da0b66",
+      "romSha1": []
+    },
+    {
+      "id": "castlevania-ii-hd",
+      "title": "Castlevania II: Simon's Quest HD",
+      "aliases": [
+        "Castlevania II"
+      ],
+      "notes": "",
+      "file": "Castlevania-II-HD.zip",
+      "url": "https://github.com/izzy2lost/NESHD-HDPacks/releases/download/packs-v1/Castlevania-II-HD.zip",
+      "size": 37197878,
+      "sha256": "b3f14c1e24862fdc02c712ad15ee7bd796f84e1576fed94d69560f90107accff",
+      "romSha1": []
+    },
+    {
+      "id": "castlevania-iii-hd",
+      "title": "Castlevania III: Dracula's Curse HD",
+      "aliases": [
+        "Castlevania III",
+        "Akumajou Densetsu"
+      ],
+      "notes": "",
+      "file": "Castlevania-III-HD.zip",
+      "url": "https://github.com/izzy2lost/NESHD-HDPacks/releases/download/packs-v1/Castlevania-III-HD.zip",
+      "size": 127184849,
+      "sha256": "8ca8cae55ced2160290b3a0404201aa178250d3090fb7c284ddcac10b0b5b8cf",
+      "romSha1": []
+    },
+    {
+      "id": "castlevaniamesenhdpackv13",
+      "title": "Castlevania – Mesen HD Pack v1.3",
+      "aliases": [
+        "Castlevania"
+      ],
+      "notes": "",
+      "file": "CastlevaniaMesenHDPackV13.zip",
+      "url": "https://github.com/izzy2lost/NESHD-HDPacks/releases/download/packs-v1/CastlevaniaMesenHDPackV13.zip",
+      "size": 56595786,
+      "sha256": "c950fc7fff9e2bbee5bc5d2c3109555be9e12a484988070dc1c1f6234e540230",
+      "romSha1": []
+    },
+    {
+      "id": "castlevaniamesensdpackv12",
+      "title": "Castlevania – Mesen SD Pack v1.2",
+      "aliases": [
+        "Castlevania"
+      ],
+      "notes": "",
+      "file": "CastlevaniaMesenSDPackV12.zip",
+      "url": "https://github.com/izzy2lost/NESHD-HDPacks/releases/download/packs-v1/CastlevaniaMesenSDPackV12.zip",
+      "size": 39185413,
+      "sha256": "914c13f8d726ab64e238d099cbfc64b8a91c8781753eb9f8ddccdd8ece024673",
+      "romSha1": []
+    },
+    {
+      "id": "castlevaniamesenvkpackv11",
+      "title": "Castlevania – Mesen VK Pack v1.1",
+      "aliases": [
+        "Castlevania"
+      ],
+      "notes": "",
+      "file": "CastlevaniaMesenVKPackV11.zip",
+      "url": "https://github.com/izzy2lost/NESHD-HDPacks/releases/download/packs-v1/CastlevaniaMesenVKPackV11.zip",
+      "size": 33228007,
+      "sha256": "16d37465723c5f66f14582e512babdeed4b44d5354968a4fbd1350792dec2b4b",
+      "romSha1": []
+    },
+    {
+      "id": "circus-charlie-texturepack-hd",
+      "title": "Circus Charlie HD",
+      "aliases": [
+        "Circus Charlie"
+      ],
+      "notes": "",
+      "file": "Circus-Charlie-TexturePack-HD.zip",
+      "url": "https://github.com/izzy2lost/NESHD-HDPacks/releases/download/packs-v1/Circus-Charlie-TexturePack-HD.zip",
+      "size": 2539886,
+      "sha256": "9ca853f5d0d408511b1ce601b8933bafc5145b2a67cd05e60957a628428f509d",
+      "romSha1": [
+        "C310FD08866A215E71B9713B115DA260F9D722DD"
+      ]
+    },
+    {
+      "id": "contra-u",
+      "title": "Contra HD",
+      "aliases": [
+        "Contra"
+      ],
+      "notes": "",
+      "file": "Contra-U.zip",
+      "url": "https://github.com/izzy2lost/NESHD-HDPacks/releases/download/packs-v1/Contra-U.zip",
+      "size": 65165632,
+      "sha256": "4e119162a764bc040e80775c1a6a2ed8eddff96c81ca44538d94b71ce055216f",
+      "romSha1": [
+        "C9EA66BB7CB30AD5343F1721B1D4D3219859319B"
+      ]
+    },
+    {
+      "id": "contraremasteredstage1demov0-1",
+      "title": "Contra Remastered (Stage 1 Demo)",
+      "aliases": [
+        "Contra"
+      ],
+      "notes": "",
+      "file": "ContraRemasteredStage1DemoV0-1.zip",
+      "url": "https://github.com/izzy2lost/NESHD-HDPacks/releases/download/packs-v1/ContraRemasteredStage1DemoV0-1.zip",
+      "size": 1060648,
+      "sha256": "d75b251ae218c5c9377b6dcf32a94e995bff6f56cc83e6b72c9cca6c5566dd91",
+      "romSha1": [
+        "C9EA66BB7CB30AD5343F1721B1D4D3219859319B"
+      ]
+    },
+    {
+      "id": "digdugdx",
+      "title": "Dig Dug DX",
+      "aliases": [
+        "Dig Dug"
+      ],
+      "notes": "",
+      "file": "DigDugDX.zip",
+      "url": "https://github.com/izzy2lost/NESHD-HDPacks/releases/download/packs-v1/DigDugDX.zip",
+      "size": 120400,
+      "sha256": "449ff1ab3e8c6e84ee10d6438a739996738cc85ded957fbaa8219b2e3e460bab",
+      "romSha1": [
+        "5EDF3CCC52E99E7DAF92BAA159AEFA39EB2FA607"
+      ]
+    },
+    {
+      "id": "donkey-kong-ju",
+      "title": "Donkey Kong HD",
+      "aliases": [
+        "Donkey Kong"
+      ],
+      "notes": "",
+      "file": "Donkey-Kong-JU.zip",
+      "url": "https://github.com/izzy2lost/NESHD-HDPacks/releases/download/packs-v1/Donkey-Kong-JU.zip",
+      "size": 5067817,
+      "sha256": "437bb51c22fa6c63d7557e2139247889ed0bbb5456a62703eb56441fd5ab240f",
+      "romSha1": [
+        "D8DFACBFEC34CDC871D73C901811551FE1706923"
+      ]
+    },
+    {
+      "id": "donkey-kong-jr-japan",
+      "title": "Donkey Kong Jr.",
+      "aliases": [
+        "Donkey Kong Jr"
+      ],
+      "notes": "",
+      "file": "Donkey-Kong-Jr-Japan.zip",
+      "url": "https://github.com/izzy2lost/NESHD-HDPacks/releases/download/packs-v1/Donkey-Kong-Jr-Japan.zip",
+      "size": 20106,
+      "sha256": "c13ddd112511945e1fcc22dde8fe31d411e69f66df913a5970d49389f225b94b",
+      "romSha1": [
+        "D63802FE89A2CEDDE55B6D62130A23E93978A621"
+      ]
+    },
+    {
+      "id": "bowser-s-castle-hd",
+      "title": "Donkey Kong – Bowser's Castle HD",
+      "aliases": [
+        "Donkey Kong"
+      ],
+      "notes": "",
+      "file": "Bowser-s-Castle-HD.zip",
+      "url": "https://github.com/izzy2lost/NESHD-HDPacks/releases/download/packs-v1/Bowser-s-Castle-HD.zip",
+      "size": 2994020,
+      "sha256": "4fbfaaa4bc5b657324bab11db6d208d799599da2670e28b863ca2325ad921e8e",
+      "romSha1": [
+        "D8DFACBFEC34CDC871D73C901811551FE1706923"
+      ]
+    },
+    {
+      "id": "drgarfield-mesen-hdpack",
+      "title": "Dr. Mario – Garfield Pack",
+      "aliases": [
+        "Dr. Mario"
+      ],
+      "notes": "",
+      "file": "DrGarfield-Mesen-HDPack.zip",
+      "url": "https://github.com/izzy2lost/NESHD-HDPacks/releases/download/packs-v1/DrGarfield-Mesen-HDPack.zip",
+      "size": 188792,
+      "sha256": "67c373689d34cd7c1a848e6b4760b6d94c4c82b111aef16f8e950bbad88ec224",
+      "romSha1": []
+    },
+    {
+      "id": "duckhunthdv1-1",
+      "title": "Duck Hunt HD v1.1",
+      "aliases": [
+        "Duck Hunt"
+      ],
+      "notes": "",
+      "file": "DuckHuntHDV1-1.zip",
+      "url": "https://github.com/izzy2lost/NESHD-HDPacks/releases/download/packs-v1/DuckHuntHDV1-1.zip",
+      "size": 241110,
+      "sha256": "a6ea61b89bce6518f7793f5c807d43988ef481b7690571316988817b91cad33d",
+      "romSha1": [
+        "8E18068823635A115E2FC0925FF3BDA209EC6A42"
+      ]
+    },
+    {
+      "id": "faxanadureimagined",
+      "title": "Faxanadu Reimagined",
+      "aliases": [
+        "Faxanadu"
+      ],
+      "notes": "",
+      "file": "FaxanaduReimagined.zip",
+      "url": "https://github.com/izzy2lost/NESHD-HDPacks/releases/download/packs-v1/FaxanaduReimagined.zip",
+      "size": 2014607,
+      "sha256": "bfa5b507245d1c31d70f5d2750f4bb78fc9c72f037a42766ba8957b655fcc1f0",
+      "romSha1": [
+        "2E2B95DB2BE615CF588F0D758E0F7B1CCD81590A"
+      ]
+    },
+    {
+      "id": "galaga-demons-of-death-u",
+      "title": "Galaga",
+      "aliases": [
+        "Galaga - Demons of Death"
+      ],
+      "notes": "",
+      "file": "Galaga-Demons-of-Death-U.zip",
+      "url": "https://github.com/izzy2lost/NESHD-HDPacks/releases/download/packs-v1/Galaga-Demons-of-Death-U.zip",
+      "size": 25637,
+      "sha256": "51754ba76e3ba975b82d66b661243e4a7c7fda740189b3cefa0f7450aba6e471",
+      "romSha1": [
+        "DA54C223D79FA59EB95437854B677CF69B5CAC8A"
+      ]
+    },
+    {
+      "id": "galaxian-japan",
+      "title": "Galaxian",
+      "aliases": [],
+      "notes": "",
+      "file": "Galaxian-Japan.zip",
+      "url": "https://github.com/izzy2lost/NESHD-HDPacks/releases/download/packs-v1/Galaxian-Japan.zip",
+      "size": 16082,
+      "sha256": "85b37e63dabea2c2366e46ebaac01ac2a419433404b410f72726eaa869a69246",
+      "romSha1": [
+        "57EBB5DA099CCB2E563F582181D8A2D251FECF2A"
+      ]
+    },
+    {
+      "id": "ice-climber-usa-europe",
+      "title": "Ice Climber",
+      "aliases": [],
+      "notes": "",
+      "file": "Ice-Climber-USA-Europe.zip",
+      "url": "https://github.com/izzy2lost/NESHD-HDPacks/releases/download/packs-v1/Ice-Climber-USA-Europe.zip",
+      "size": 40158,
+      "sha256": "f46807cdf2879b6e81c137eed07e495d34dcc05a918183a478eb08d79a464410",
+      "romSha1": [
+        "09D97003BF9D676F24A75CF3E1DCED28CDA3BE59"
+      ]
+    },
+    {
+      "id": "kung-fu",
+      "title": "Kung Fu",
+      "aliases": [
+        "Spartan X"
+      ],
+      "notes": "",
+      "file": "Kung-Fu.zip",
+      "url": "https://github.com/izzy2lost/NESHD-HDPacks/releases/download/packs-v1/Kung-Fu.zip",
+      "size": 850102,
+      "sha256": "3e576232063ada227b489793b562f0d28b4e0298b7dd12cc5cb9f3e929347b4f",
+      "romSha1": []
+    },
+    {
+      "id": "little-nemo",
+      "title": "Little Nemo: The Dream Master",
+      "aliases": [
+        "Little Nemo"
+      ],
+      "notes": "",
+      "file": "Little-Nemo.zip",
+      "url": "https://github.com/izzy2lost/NESHD-HDPacks/releases/download/packs-v1/Little-Nemo.zip",
+      "size": 68627,
+      "sha256": "10d9b34dbd28725e6cdce639a49ecce17e3e5507bb875771abcbaf536a7f26a3",
+      "romSha1": [
+        "1FC0EE2265A49974F99DFFA92802C2331DE86D93"
+      ]
+    },
+    {
+      "id": "mappy-30th-anniversary-edition",
+      "title": "Mappy – 30th Anniversary Edition",
+      "aliases": [
+        "Mappy"
+      ],
+      "notes": "",
+      "file": "Mappy-30th-Anniversary-Edition.zip",
+      "url": "https://github.com/izzy2lost/NESHD-HDPacks/releases/download/packs-v1/Mappy-30th-Anniversary-Edition.zip",
+      "size": 24350,
+      "sha256": "0a5d9f530763d2a25d2397b8f163829607162506f1ca6cbc1cfe436fe61dfa06",
+      "romSha1": [
+        "B513631F9098FB74BE829A6EB1DACA1AE9C7176E"
+      ]
+    },
+    {
+      "id": "mega-man-usa",
+      "title": "Mega Man HD",
+      "aliases": [
+        "Mega Man",
+        "Rockman"
+      ],
+      "notes": "",
+      "file": "Mega-Man-USA.zip",
+      "url": "https://github.com/izzy2lost/NESHD-HDPacks/releases/download/packs-v1/Mega-Man-USA.zip",
+      "size": 39817627,
+      "sha256": "26f919d455e666ba0edb34768cbc252ba9b6023ed0a37ea8a2d79c01baec34ec",
+      "romSha1": []
+    },
+    {
+      "id": "shatter-man",
+      "title": "Mega Man – Shatter Man",
+      "aliases": [
+        "Mega Man"
+      ],
+      "notes": "",
+      "file": "shatter-man.zip",
+      "url": "https://github.com/izzy2lost/NESHD-HDPacks/releases/download/packs-v1/shatter-man.zip",
+      "size": 823098,
+      "sha256": "e38b45a528384cdf11fdf27882a82f1715c9a7c5a67b35d782b33eb2126c989c",
+      "romSha1": [
+        "611131DDB450C9B46AD6BC53E0C6E26C7140E83E"
+      ]
+    },
+    {
+      "id": "metroidhd",
+      "title": "Metroid HD",
+      "aliases": [
+        "Metroid"
+      ],
+      "notes": "",
+      "file": "MetroidHD.zip",
+      "url": "https://github.com/izzy2lost/NESHD-HDPacks/releases/download/packs-v1/MetroidHD.zip",
+      "size": 108823689,
+      "sha256": "d4594f213e3f6885f468a3a4f40be8b909054bbbbb1bfc7f22e35ca63bc972dc",
+      "romSha1": [
+        "ECF39EC5A33E6A6F832F03E8FFC61C5D53F4F90B"
+      ]
+    },
+    {
+      "id": "ms-pac-man-usa",
+      "title": "Ms. Pac-Man",
+      "aliases": [],
+      "notes": "",
+      "file": "Ms-Pac-Man-USA.zip",
+      "url": "https://github.com/izzy2lost/NESHD-HDPacks/releases/download/packs-v1/Ms-Pac-Man-USA.zip",
+      "size": 46513,
+      "sha256": "5494751ba19fdee889f8402a134175687772bf40b65ce58bdd178bbf7092408d",
+      "romSha1": [
+        "3200B87B23ADA7A40D12C43DAB76502E912B9C38"
+      ]
+    },
+    {
+      "id": "ninja-gaiden-usa",
+      "title": "Ninja Gaiden",
+      "aliases": [],
+      "notes": "",
+      "file": "Ninja-Gaiden-USA.zip",
+      "url": "https://github.com/izzy2lost/NESHD-HDPacks/releases/download/packs-v1/Ninja-Gaiden-USA.zip",
+      "size": 557461,
+      "sha256": "f6c3b4ecf8a2b3928cfb1fd0f5c7895354d4196ab6e3ae641f215be023aab164",
+      "romSha1": [
+        "CA513F841D75EFEB33BB8099FB02BEEB39F6BB9C"
+      ]
+    },
+    {
+      "id": "ninja-gaiden-ii-the-dark-sword-of-chaos-usa",
+      "title": "Ninja Gaiden II: The Dark Sword of Chaos",
+      "aliases": [
+        "Ninja Gaiden II"
+      ],
+      "notes": "",
+      "file": "Ninja-Gaiden-II-The-Dark-Sword-of-Chaos-USA.zip",
+      "url": "https://github.com/izzy2lost/NESHD-HDPacks/releases/download/packs-v1/Ninja-Gaiden-II-The-Dark-Sword-of-Chaos-USA.zip",
+      "size": 1060603,
+      "sha256": "9d965bd1627d79074c5f1c1d29dc2cf5ed1d00e0046deb9a7cd05bb3b682edf0",
+      "romSha1": [
+        "B1796660E4A4CEFC72181D4BF4F97999BC048A77"
+      ]
+    },
+    {
+      "id": "nuts-milk",
+      "title": "Nuts & Milk",
+      "aliases": [],
+      "notes": "",
+      "file": "Nuts-Milk.zip",
+      "url": "https://github.com/izzy2lost/NESHD-HDPacks/releases/download/packs-v1/Nuts-Milk.zip",
+      "size": 450282,
+      "sha256": "41941f5d0d9b3f2faeeeb32b8bdd05623f5fd8a24634c7b35af5c5d556e3e68c",
+      "romSha1": []
+    },
+    {
+      "id": "pac-man",
+      "title": "Pac-Man",
+      "aliases": [],
+      "notes": "",
+      "file": "Pac-Man.zip",
+      "url": "https://github.com/izzy2lost/NESHD-HDPacks/releases/download/packs-v1/Pac-Man.zip",
+      "size": 347194,
+      "sha256": "45aec7b235efb9de2e28793f298da4b79e1f28fb726220dba05bb62fe1694865",
+      "romSha1": [
+        "E7D818E128593109B5C480497A050FACC0744F1B"
+      ]
+    },
+    {
+      "id": "popeye-world",
+      "title": "Popeye",
+      "aliases": [],
+      "notes": "",
+      "file": "Popeye-World.zip",
+      "url": "https://github.com/izzy2lost/NESHD-HDPacks/releases/download/packs-v1/Popeye-World.zip",
+      "size": 2213903,
+      "sha256": "b53409b0abd303a05fd83b864eb650005db0ef9291f4be11bba86f08134605b0",
+      "romSha1": [
+        "53CA7541404E51C248D10FAB198154F9970479B9"
+      ]
+    },
+    {
+      "id": "road-fighter-e",
+      "title": "Road Fighter",
+      "aliases": [],
+      "notes": "",
+      "file": "Road-Fighter-E.zip",
+      "url": "https://github.com/izzy2lost/NESHD-HDPacks/releases/download/packs-v1/Road-Fighter-E.zip",
+      "size": 262009,
+      "sha256": "293c15936a98ba6cbdf6ddc2c414f15b1a333d11740384e2da74b5b25435edc2",
+      "romSha1": [
+        "653EC81B437003C8EC9891D7C302F896054F33C4"
+      ]
+    },
+    {
+      "id": "super-mario-bros",
+      "title": "Super Mario Bros. HD",
+      "aliases": [
+        "Super Mario Bros"
+      ],
+      "notes": "",
+      "file": "Super-Mario-Bros.zip",
+      "url": "https://github.com/izzy2lost/NESHD-HDPacks/releases/download/packs-v1/Super-Mario-Bros.zip",
+      "size": 1240301,
+      "sha256": "78c5e0847dd8c116279ec19ef2c544a1d718a4d85df1cdb40cf4df80d9c1f72c",
+      "romSha1": []
+    },
+    {
+      "id": "supermariobros",
+      "title": "Super Mario Bros. HD (Alt)",
+      "aliases": [
+        "Super Mario Bros"
+      ],
+      "notes": "",
+      "file": "SuperMarioBros.zip",
+      "url": "https://github.com/izzy2lost/NESHD-HDPacks/releases/download/packs-v1/SuperMarioBros.zip",
+      "size": 1813738,
+      "sha256": "f05b2336d5e70224932467f9faf7346f9b0d4edd22aa4aca71b3246076bd0981",
+      "romSha1": []
+    },
+    {
+      "id": "super-mario-bros-ju-prg0",
+      "title": "Super Mario Bros. HD (PRG0)",
+      "aliases": [
+        "Super Mario Bros"
+      ],
+      "notes": "",
+      "file": "Super-Mario-Bros-JU-PRG0.zip",
+      "url": "https://github.com/izzy2lost/NESHD-HDPacks/releases/download/packs-v1/Super-Mario-Bros-JU-PRG0.zip",
+      "size": 2318042,
+      "sha256": "6b7cd7d3b8308c04783d309d4f8248e4a7b5fe20fd9fd58d009eb710b7ed7ba9",
+      "romSha1": []
+    },
+    {
+      "id": "smbarcade-final",
+      "title": "Super Mario Bros. – Arcade Style",
+      "aliases": [
+        "Super Mario Bros"
+      ],
+      "notes": "",
+      "file": "SMBArcade-FINAL.zip",
+      "url": "https://github.com/izzy2lost/NESHD-HDPacks/releases/download/packs-v1/SMBArcade-FINAL.zip",
+      "size": 4048617,
+      "sha256": "74999c1922c5fca34a2098130e3e4262ce0556c8f873c7f4ecd666c4ed54ef9c",
+      "romSha1": []
+    },
+    {
+      "id": "zeldaremastered",
+      "title": "The Legend of Zelda Remastered",
+      "aliases": [
+        "Legend of Zelda",
+        "Zelda"
+      ],
+      "notes": "",
+      "file": "ZeldaRemastered.zip",
+      "url": "https://github.com/izzy2lost/NESHD-HDPacks/releases/download/packs-v1/ZeldaRemastered.zip",
+      "size": 47345429,
+      "sha256": "95ffd3da963a98942ac94293632b35d75db48319cb22d01bdc482628027b1af2",
+      "romSha1": [
+        "DAB79C84934F9AA5DB4E7DAD390E5D0C12443FA2"
+      ]
+    },
+    {
+      "id": "twinbee-remastered",
+      "title": "TwinBee Remastered",
+      "aliases": [
+        "TwinBee"
+      ],
+      "notes": "",
+      "file": "TwinBee-Remastered.zip",
+      "url": "https://github.com/izzy2lost/NESHD-HDPacks/releases/download/packs-v1/TwinBee-Remastered.zip",
+      "size": 6220885,
+      "sha256": "07b45e7c3702d428ad44f9b6ca10a85628985ee98111fb3173ee7ebd0b5c5df2",
+      "romSha1": []
+    },
+    {
+      "id": "zelda2",
+      "title": "Zelda II: The Adventure of Link HD",
+      "aliases": [
+        "Zelda II",
+        "Adventure of Link"
+      ],
+      "notes": "",
+      "file": "Zelda2.zip",
+      "url": "https://github.com/izzy2lost/NESHD-HDPacks/releases/download/packs-v1/Zelda2.zip",
+      "size": 10321877,
+      "sha256": "1c56fd94c5eba57814104116229dee529ce38d7b75844d8a96a6c7f5951a4913",
+      "romSha1": []
+    }
+  ]
+}
