@@ -5,6 +5,11 @@ cd "$(dirname "$0")"
 REPO=izzy2lost/NESHD-HDPacks
 TAG=packs-v1
 
+# The repo needs a commit before a release can be created.
+git add hdpacks.json README.md .gitignore publish.sh
+git commit -m "Update HD pack catalog" || true
+git push origin main
+
 gh release view "$TAG" --repo "$REPO" >/dev/null 2>&1 ||
   gh release create "$TAG" --repo "$REPO" --title "HD Packs" --notes "HD pack downloads for NESHD. See hdpacks.json."
 
@@ -18,6 +23,3 @@ for f in assets/*.zip; do
   fi
 done
 
-git add hdpacks.json README.md .gitignore publish.sh
-git commit -m "Update HD pack catalog" || true
-git push origin main
