@@ -377,21 +377,6 @@
       "romSha1": []
     },
     {
-      "id": "shatter-man",
-      "title": "Mega Man – Shatter Man",
-      "aliases": [
-        "Mega Man"
-      ],
-      "notes": "",
-      "file": "shatter-man.zip",
-      "url": "https://github.com/izzy2lost/NESHD-HDPacks/releases/download/packs-v1/shatter-man.zip",
-      "size": 823098,
-      "sha256": "e38b45a528384cdf11fdf27882a82f1715c9a7c5a67b35d782b33eb2126c989c",
-      "romSha1": [
-        "611131DDB450C9B46AD6BC53E0C6E26C7140E83E"
-      ]
-    },
-    {
       "id": "metroidhd",
       "title": "Metroid HD",
       "aliases": [
@@ -495,6 +480,22 @@
       "sha256": "293c15936a98ba6cbdf6ddc2c414f15b1a333d11740384e2da74b5b25435edc2",
       "romSha1": [
         "653EC81B437003C8EC9891D7C302F896054F33C4"
+      ]
+    },
+    {
+      "id": "shatter-man",
+      "title": "Shatterhand",
+      "aliases": [
+        "Shatter Man",
+        "Tokkyuu Shirei Solbrain"
+      ],
+      "notes": "",
+      "file": "shatter-man.zip",
+      "url": "https://github.com/izzy2lost/NESHD-HDPacks/releases/download/packs-v1/shatter-man.zip",
+      "size": 823098,
+      "sha256": "e38b45a528384cdf11fdf27882a82f1715c9a7c5a67b35d782b33eb2126c989c",
+      "romSha1": [
+        "611131DDB450C9B46AD6BC53E0C6E26C7140E83E"
       ]
     },
     {
